@@ -1,6 +1,8 @@
 # Afshaal's Web Development Repository
 
-A repository for HTML/CSS/JS web development projects.
+## Purpose
+
+A repository for HTML/CSS/JS web development projects created by Afshaal Zubair.
 
 ## Projects
 
