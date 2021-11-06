@@ -2,7 +2,7 @@
 
 ## Description
 
-This folder contains general HTML and CSS files created for learning the HTML and CSS languages, no javascript will be included.
+This folder contains general HTML and CSS practice files created for learning the HTML and CSS languages, no javascript programming is included.
 
 ## Files
 
