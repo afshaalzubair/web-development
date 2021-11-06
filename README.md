@@ -6,6 +6,8 @@ A repository for HTML/CSS/JS web development projects created by Afshaal Zubair.
 
 ## Projects
 
+Projects (main list) are chronologically organized, the specific directories (indented list) are not chronological but are alphabetically organized.
+
 1. [general](https://github.com/afshaalzubair/web-development/tree/main/general)
    1. CSS-crash-course-website
    2. CSS-crash-course
