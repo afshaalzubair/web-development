@@ -21,4 +21,8 @@ This folder contains general HTML and CSS practice files created for learning th
    1. layouts.html
    2. layouts.css
 5. [CSS-crash-course](https://github.com/afshaalzubair/web-development/tree/main/general/CSS-crash-course)
-   1. 
+   1. bgimage.jpg
+   2. checkmark.jpg
+   3. index.html
+   4. style.css
+6. [CSS-crash-course-website](https://github.com/afshaalzubair/web-development/tree/main/general/CSS-crash-course-website)
