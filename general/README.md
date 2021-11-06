@@ -2,7 +2,7 @@
 
 ## Description
 
-This folder contains general HTML and CSS practice files created for learning the HTML and CSS languages, no javascript programming is included.
+This folder contains general HTML and CSS practice files created for learning the HTML and CSS languages, no javascript programming is included. Any projects that were created using a tutorial have a !tutorial.md file in the directory.
 
 ## Files
 
@@ -20,3 +20,5 @@ This folder contains general HTML and CSS practice files created for learning th
 4. [layouts-proj](https://github.com/afshaalzubair/web-development/tree/main/general/layouts-proj)
    1. layouts.html
    2. layouts.css
+5. [CSS-crash-course](https://github.com/afshaalzubair/web-development/tree/main/general/CSS-crash-course)
+   1. 
