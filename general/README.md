@@ -29,3 +29,5 @@ Projects (main list) are chronologically organized, the specific files (indented
    4. style.css
 6. [CSS-crash-course-website](https://github.com/afshaalzubair/web-development/tree/main/general/CSS-crash-course-website)
    1. index.html
+   2. style.css
+   3. showcase.jpg
