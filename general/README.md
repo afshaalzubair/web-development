@@ -6,7 +6,7 @@ This folder contains general HTML and CSS practice files created for learning th
 
 ## Files
 
-Projects (main list) are chronologically organized, the specific files (indented list) are not organized chronologically or alphabetically.
+Projects (main list) are chronologically organized, the specific files (indented list) are not organized chronologically nor alphabetically.
 
 1. [HTML-basics](https://github.com/afshaalzubair/web-development/tree/main/general/HTML-basics)
    1. index.html
