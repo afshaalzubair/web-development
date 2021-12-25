@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A repository for HTML/CSS/JS web development projects. Created by Afshaal Zubair.
+A repository for HTML/CSS/JS web development projects, created by Afshaal Zubair.
 
 ## Projects
 
